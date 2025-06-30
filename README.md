@@ -1,0 +1,1 @@
+The primary goal of this project is to design and implement an intelligent soil moisture monitoring system using a Raspberry Pi and a digital sensor. This system should provide real-time insights into the hydration level of potted plants and deliver timely alerts to users when moisture drops below a defined threshold.
